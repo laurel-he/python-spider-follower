@@ -1,12 +1,13 @@
 # python-spider-follower
-Ñ§Ï°µØÖ·£ºhttps://cuiqingcai.com/5135.html
-ĞèÒª°²×°¶ÔÓ¦µÄÒÀÀµ£º
+å­¦ä¹ åœ°å€ï¼šhttps://cuiqingcai.com/5135.html
+/spideræ–‡ä»¶å¤¹æ˜¯çˆ¬è™«æ–‡ä»¶ï¼Œä¸»è¦ç”¨æ¥çˆ¬å–githubçš„å…³æ³¨äººï¼Œå®Œæˆä¸­
+éœ€è¦å®‰è£…å¯¹åº”çš„ä¾èµ–ï¼š
   1 requests 	
     pip install requests
   2 selenium
     pip install selenium
   3 chromdriver
-    ÕÒµ½µ±Ç°chrom°æ±¾ºÅ£¬°²×°¶ÔÓ¦µÄchromdriver
-  4 GeckoDriverµÄ°²×°
-    ÒòÎªÎÒ²»ÓÃ»ğºüä¯ÀÀÆ÷£¬²»°²×°ÁË
-  5 aiohttp¾ÍÊÇÕâÑùÒ»¸öÌá¹©Òì²½Web·şÎñµÄ¿â£¬Ö±½Ó°²×° pip install aiohttp
+    æ‰¾åˆ°å½“å‰chromç‰ˆæœ¬å·ï¼Œå®‰è£…å¯¹åº”çš„chromdriver
+  4 GeckoDriverçš„å®‰è£…
+    å› ä¸ºæˆ‘ä¸ç”¨ç«ç‹æµè§ˆå™¨ï¼Œä¸å®‰è£…äº†
+  5 aiohttpå°±æ˜¯è¿™æ ·ä¸€ä¸ªæä¾›å¼‚æ­¥WebæœåŠ¡çš„åº“ï¼Œç›´æ¥å®‰è£… pip install aiohttp
