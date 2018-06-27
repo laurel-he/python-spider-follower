@@ -1,8 +1,13 @@
-# python-spider-follower 
+﻿# python-spider-follower 
 
 学习地址：https://cuiqingcai.com/5135.html
 
-/spider文件夹是爬虫文件，主要用来爬取github的关注人，完成中
+/spider文件夹是爬虫文件，主要用来爬取github的关注人，已完成第一版
+
+解说博客地址：
+
+https://segmentfault.com/a/1190000015394701
+
 
 需要安装对应的依赖：
 
