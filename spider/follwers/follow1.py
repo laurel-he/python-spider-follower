@@ -7,8 +7,8 @@ if __name__ == '__main__':
     context = req.text
     patt = re.compile(r"data-octo-dimensions=\"link_type:self\".*href=\"/(.*?)\"")
     ch = patt.findall(req.text)
-    fo = open('flower.txt',"ab+")
+    fo = open('flower1.txt',"ab+")
     for i in ch:
         line = str(i) + "\n"
-        fo.write((line).encode('UTF-8')+'\n')
+        fo.write((line).encode('UTF-8')+b'\r\n')
     fo.close
