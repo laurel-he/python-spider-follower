@@ -2,7 +2,7 @@
 import requests
 import re
 if __name__ == '__main__':
-    target = 'https://github.com/laurel-he?page=2&tab=followers'
+    target = 'https://github.com/laurel-he?after=Y3Vyc29yOnYyOpKnS3VyaS1zdc4BWgPW&tab=followers'
     req = requests.get(url=target)
     context = req.text
     patt = re.compile(r"data-octo-dimensions=\"link_type:self\".*href=\"/(.*?)\"")
